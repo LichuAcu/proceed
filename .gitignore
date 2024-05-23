@@ -1,0 +1,11 @@
+fasttext_install/
+fasttext_classifier/fasttext_model.bin
+routerbench/
+data/*/
+!data/*.ipynb
+distilbert_classifier/3epochs/*
+distilbert_classifier/5epochs/*
+fasttext_classifier/gpt-3.5-turbo-1106/*
+fasttext_classifier/fasttext_test.txt
+fasttext_classifier/fasttext_train.txt
+
